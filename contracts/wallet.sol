@@ -5,7 +5,7 @@ contract Wallet{
     address public owner;
 
     constructor(){
-        owner =msg.sender;
+        owner=msg.sender;
     }
 
     function Deposit(uint256)public payable{

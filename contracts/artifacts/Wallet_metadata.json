@@ -91,11 +91,11 @@
 	},
 	"sources": {
 		"contracts/wallet.sol": {
-			"keccak256": "0x1a4685ab372bbf2fed4fa874f6e64b1aaab3d51598e6344b36325f9c3f1716d7",
+			"keccak256": "0x397c9a2422b247c29ee7f184041b76cf2d9641d4b30ea70a86050922b07a3701",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://6149fb6b1930e23b7994f428429fe563bab4c4e8610b4b4ffe2954b32e0d312a",
-				"dweb:/ipfs/QmfBRekgeorWD7cKACK5sBfR1fLTmb4YssE4Y7fZnTWs9f"
+				"bzz-raw://5e9113c0a411bce050270678b17de593588a1b6e94e786eb31764a1a351b9653",
+				"dweb:/ipfs/Qmec1As88nxYK4WHioqAAsDaJu6BnkGvWvrvQGhK9jLGCF"
 			]
 		}
 	},
