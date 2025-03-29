@@ -76,7 +76,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/practice.sol": "Wallet"
+			"contracts/wallet.sol": "Wallet"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -90,7 +90,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/practice.sol": {
+		"contracts/wallet.sol": {
 			"keccak256": "0x1a4685ab372bbf2fed4fa874f6e64b1aaab3d51598e6344b36325f9c3f1716d7",
 			"license": "MIT",
 			"urls": [
